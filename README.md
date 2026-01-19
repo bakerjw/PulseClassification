@@ -27,7 +27,7 @@ example1.AT2 , example2.AT2 : Example time-histories (recorded components of the
 Other Information
 ===========
 
-Example classification results are available at https://web.stanford.edu/~bakerjw/pulse_classification_v2/Pulse-like-records.html
+Example classification results are available at https://www.jackwbaker.com/pulse_classification_v2/Pulse-like-records.html
 
 The NGA-West2 data used for this analysis is available at https://ngawest2.berkeley.edu/
 
@@ -35,4 +35,4 @@ The NGA-West2 data used for this analysis is available at https://ngawest2.berke
 References
 ===========
 
-Shahi S.K., and  Baker J.W. (2014). "An efficient algorithm to identify strong velocity pulses in multi-component ground-motions". Bulletin of the Seismological Society of America, 104(5), 2456–2466.
+Shahi S.K., and  Baker J.W. (2014). "An efficient algorithm to identify strong velocity pulses in multi-component ground-motions". Bulletin of the Seismological Society of America, 104(5), 2456–2466. https://doi.org/10.1785/0120130191
